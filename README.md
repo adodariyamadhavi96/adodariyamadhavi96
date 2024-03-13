@@ -1,4 +1,4 @@
-🔭 I’m currently working on Data science projects.
+🔭 I’m currently working on Data science projects. \n
 🌱 I’m currently learning NLP.
 👯 I’m looking to collaborate on any end to end Data science project.
 💬 Ask me about anything, I ll try my best to share my knowledge.
