@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Madhavi Adodariya</h1>
-<h3 align="center">A Passionate Machine Learning Model Creator from India</h3>
 
 - 🔭 I’m currently working on **Data Science Projects**
 
